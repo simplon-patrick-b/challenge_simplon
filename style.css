@@ -1,0 +1,30 @@
+body {
+    }
+header img {
+  width: 40px;
+}
+header {
+  background-image:url(./images/payments-banner-graphic.png);
+  color: white;
+    }
+#droite {
+  float:right;
+}
+#centre {
+text-align: center;
+}
+#qbs {
+  width: 100%;
+}
+#q {
+  float: left;
+  width: 33%;
+}
+#b {
+  float: none;
+  width: 33%;
+}
+#s {
+  float: right;
+  width: 33%;
+}
