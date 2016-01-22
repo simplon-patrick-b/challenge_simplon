@@ -40,3 +40,6 @@ text-align: center;
   position: relative;
   display: inline-block;
 }
+#paid {
+  text-align: center;
+}
