@@ -14,17 +14,29 @@ header {
 text-align: center;
 }
 #qbs {
+  text-align: center;
+  display: inline-block;
   width: 100%;
+  position: relative;
 }
 #q {
+  text-align: center;
   float: left;
   width: 33%;
+  position: relative;
+  display: inline-block;
 }
 #b {
+  text-align: center;
   float: none;
   width: 33%;
+  position: relative;
+  display: inline-block;
 }
 #s {
+  text-align: center;
   float: right;
   width: 33%;
+  position: relative;
+  display: inline-block;
 }
